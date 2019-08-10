@@ -18,14 +18,14 @@ plugins:
   - jekyll-purgecss
 
 # jekyll-seo-tag configuration
-author: ""
-url: ""
-title: ""
-description: ""
+author: "Southeast Ruby"
+url: "https://southeastruby.com"
+title: "Southeast Ruby Conference - Nashville, TN"
+description: "A regional Ruby conference located in the heart of the south."
 twitter:
-  username: ""
+  username: "southeastruby"
   card: ""
-logo: "path/to/image"
+logo: "https://southeastruby.com/assets/images/crest.png"
 
 
 # Exclude from processing.
